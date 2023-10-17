@@ -6,34 +6,45 @@
     <h1><?= $judul ?></h1>
     <div class="about-container">
         <div class="about-picture">
-            <img src="<?= base_url() ?>/img/me.png" alt="profile">
+            <img src="<?= base_url() ?>/img/ucup.jpg" alt="profile">
         </div>
         <div class="about-description">
             <div class="typography">
-                <p align="justify">
-                    Nama saya Fahri Anggara, saya adalah seorang Web Programmer. Saat ini saya sedang
-                    belajar di Universitas Bina Sarana Informatika, Fakultas Teknik Informatika, Jurusan
-                    Rekayasa Perangkat Lunak. Saya sangat tertarik dengan dunia pemrograman!
-                </p>
-                <p align="justify">
-                    Alamat rumah saya di Jl. Duren 01 No. 100, Rangkapan Jaya Baru, Pancoran Mas, Kota Depok.<br>
-                    Tempat lahir saya di Jakarta.<br>
-                    Olahraga yang saya sukai adalah Bulutangkis.<br>
-                </p>
-                <p align="justify">
-                    Bahasa pemrograman yang saya sukai adalah PHP, karena saya merasa PHP sangat mudah untuk
-                    dipelajari dan dipahami. Selain itu, PHP juga memiliki banyak framework yang dapat
-                    mempermudah pekerjaan seorang programmer. Framework PHP yang saya sukai adalah Laravel 8+.
-                </p> 
+                <div>
+                    <h4>PROFIL</h4>
+                    <p align="justify">
+                        Nama saya <a> Dimas Yusuf Hidayat </a>,<br>saya seorang mahasiswa Rekayasa Perangkat Lunak di Universitas Bina Sarana Informatika.
+                        <br>Saya lahir di Jakarta <a> 14 April 2002.</a>
+                    </p>
+                </div>
+                
+                <div>
+                    <h4>ALAMAT</h4>
+                    <p align="justify">
+                        Jl.Lapan Gg.Rembani 3 Kel.Pekayon Kec.Pasar Rebo
+                    </p>
+                </div>
+
+                <div class="olahraga">
+                    <h4>OLAHRAGA FAVORIT</h4>
+                    <p align="justify">
+                        Saya memiliki beberapa olahraga favorit seperti:
+                    </p>
+
+                    <li>Bersepeda</li>
+                    <li>Berlatih Pencak Silat</li>
+                    <li>Badminton</li>
+                </div>
+
             </div>
             <ul class="social-media">
                 <li>
-                    <a href="https://github.com/fahrianggara" target="_blank">
+                    <a href="https://github.com/dimasyusuf14" target="_blank">
                         Github
                     </a>
                 </li>
                 <li>
-                    <a href="https://instagram.com/f.anggae" target="_blank">
+                    <a href="https://instagram.com/dms.yusuf" target="_blank">
                         Instagram
                     </a>
                 </li>

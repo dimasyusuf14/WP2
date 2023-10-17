@@ -42,9 +42,25 @@ body {
 	text-decoration: none;
 } 
 
+a {
+	font-weight:700;
+}
+
 .clear {
 	clear: both;
 } 
+
+h4 {
+	margin-bottom: -11px;
+}
+
+.olahraga li{
+	padding-left: 29px;
+}
+
+.olahraga p {
+	margin-bottom: 4px;
+}
 
 footer {
 	background: #232323;
@@ -70,21 +86,24 @@ ol.a {
 }
 
 .about-picture {
-	width: calc(100% / 1);
-	height: 300px;
-	margin-right: 20px;
+	width: 110%;
+	height: 402px;
+	margin-right: -380px;
 }
 
 .about-picture img {
-	width: 100%;
+	width: 49%;
 	height: 100%;
 	object-fit: cover;
+	border-radius: 10px;
 }
 
 .about-description {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
+	margin-right: 100px;
+	margin-top: -20px;
 }
 
 .social-media {
