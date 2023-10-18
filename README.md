@@ -2,9 +2,9 @@
 <p>REPOSITORY TUGAS WEB PROGRAMMING 2</p>
 
 
-**Nama  :** Dimas Yusuf Hidayat
-**NIM   :** 10220014
-**Kelas :** 10.3A.01
+**Nama  :** Dimas Yusuf Hidayat <br>
+**NIM   :** 10220014 <br>
+**Kelas :** 10.3A.01 <br>
 
 
 
