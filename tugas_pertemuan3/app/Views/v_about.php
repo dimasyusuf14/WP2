@@ -13,7 +13,7 @@
                 <div>
                     <h4>PROFIL</h4>
                     <p align="justify">
-                        Nama saya <a> Dimas Yusuf Hidayat </a>,<br>saya seorang mahasiswa Rekayasa Perangkat Lunak di Universitas Bina Sarana Informatika.
+                        Nama saya <a> Dimas Yusuf Hidayat </a>,<br>saya seorang mahasiswa Rekayasa Perangkat Lunak di  Universitas Bina Sarana Informatika.
                         <br>Saya lahir di Jakarta <a> 14 April 2002.</a>
                     </p>
                 </div>

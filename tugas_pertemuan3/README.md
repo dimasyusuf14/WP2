@@ -10,5 +10,5 @@ selanjutnya
 
 # Screenshoot hasil
 
-![alt text](https://github.com/fahrianggara/wp2/blob/main/pertemuan3/public/img/home-page.png?raw=true)
-![alt text](https://github.com/fahrianggara/wp2/blob/main/pertemuan3/public/img/about-page.png?raw=true)
+![alt text](https://github.com/dimasyusuf14/wp2/blob/main/tugas_pertemuan3/public/img/home.png?raw=true)
+![alt text](https://github.com/dimasyusuf14/wp2/blob/main/tugas_pertemuan3/public/img/about.png?raw=true)
