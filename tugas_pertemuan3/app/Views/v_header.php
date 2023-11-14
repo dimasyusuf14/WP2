@@ -5,8 +5,9 @@
     </hgroup>
     <nav>
         <ul>
-            <li><a href="<?= base_url() ?>web">Home</a></li>
-            <li><a href="<?= base_url() ?>about">About</a></li>
+            <li><a href="<?= base_url() ?>web">Data Siswa</a></li>
+            <li><a href="<?= base_url() ?>about">Nilai Siswa</a></li>
+            <li><a href="<?= base_url() ?>matkul">Input Data Siswa</a></li>
         </ul>
     </nav>
     <div class="clear"></div>

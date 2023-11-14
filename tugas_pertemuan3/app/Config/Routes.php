@@ -11,5 +11,9 @@ $routes->get('/', function () {
     return redirect()->to('/web');
 });
 
+
 $routes->get('web', 'WebController::index'); // <-- Menampilkan halaman utama (web)
 $routes->get('about', 'WebController::about'); // <-- Menampilkan halaman about (web/about)
+
+$routes->get('form', 'Matakuliah::form');
+$routes->post('form/cetak/data', 'Matakuliah::submit');
